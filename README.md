@@ -154,12 +154,7 @@ tests/
 ```
 
 ### Video Demonstration
-##### [Watch Video](inventory-management-api-2025-09-28_12.05.12.mp4)
-
-<video width="800" controls autoplay muted>
-  <source src="inventory-management-api-2025-09-28_12.05.12.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+##### [Watch Video](https://drive.google.com/file/d/1XZqt7RT0pS7BE8neJGhD3Pwrr1jqo2fB/view?usp=sharing)
 
 
 ### Postman Collection
